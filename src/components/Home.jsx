@@ -14,7 +14,7 @@ const Home = () => {
           Student at ITER SOA University.</p>
         <div>
         <button className='hover:scale-110 duration-300 text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
-           <a href='https://drive.google.com/file/d/1ztTQXvx60eGmg29tmRLb3L2UAnA08dAS/view?usp=sharing' target='blank'>View Resume</a>
+           <a href='https://drive.google.com/file/d/1MIlX2N1flLxztUR_5QoX1z9c-bGG-iId/view?usp=sharing' target='blank'>View Resume</a>
             <span>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
